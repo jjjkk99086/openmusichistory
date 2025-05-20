@@ -14,3 +14,4 @@
 | 1706 | LeÃgons de TÃonÃ"bres pour le Mercredi Saint     | [Listen](https:/youtu.be/MjN4hqXE74Y?si=voUlBIx84BL1K8q8) |
 | 1713 | Concerts Royaux                                  | [Listen](https://youtu.be/RmdlIpZBuqs?si=1ZplBcmI-SBvCRrQ)|
 
+## Score of Premier Kyrie
