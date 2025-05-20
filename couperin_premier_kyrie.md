@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/860a8537-55f9-4623-930e-8cae36f90962)
 
-10 November 1668 - 11 September 1733[1]) was a French Baroque composer, organist and harpsichordist. He was known as Couperin le Grand ("Couperin the Great") to distinguish him from other members of the musically talented Couperin family.
+François Couperin (1668–1733) was a prominent French composer and harpsichordist of the Baroque era. He served as a court musician for King Louis XIV and was known for his elegant and refined keyboard style. His major works include the harpsichord collections “L’art de toucher le clavecin” and “Pièces de clavecin.” Couperin belonged to a famous family of musicians spanning several generations.
 
 ## List of important works
 
