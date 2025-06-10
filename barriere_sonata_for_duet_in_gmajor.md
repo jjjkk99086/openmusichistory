@@ -9,7 +9,7 @@
 ## List of Important Works
 | Year | Works | YouTube |
 | 1740 | Pieces de clavecin | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM) |
-| ---- | ----- | ------- |
+| 1740 | Sonata for Duet in G Major | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw) |
 | ---- | ----- | ------- |
 | ---- | ----- | ------- |
 
