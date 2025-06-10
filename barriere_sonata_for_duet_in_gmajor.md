@@ -5,8 +5,8 @@ Jean-Baptiste Barrière is a French Cellist and also Composer, was a significant
  <img src="./jbb.jpg" alt="portrait" style="width:25%;" />
 
  <img src="./jean_baptipste_barriere.png" alt="score" style="width:50%;" />
+ 
 ## List of Important Works
-
 | Year | Works | YouTube |
 | 1740 | Sonata for Duet in G Major | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw) |
 | 1740 | Pieces de clavecin | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM) |
