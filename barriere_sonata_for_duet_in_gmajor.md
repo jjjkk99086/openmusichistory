@@ -1,17 +1,40 @@
+---
+Composer: Louis Couperin
+Nationality: France
+Born: 1626
+Died: 1661
+Period: Baroque
+Composition: Chaconne in D
+Instrument: Harpsichord
+---
+
+
 # Jean Baptiste Barrière (1707 – 1747)
 
-"_Jean-Baptiste Barrière is a French Cellist and also Composer_", was a significant composer of the 18th century, contributing to the development of cello music. His works are technically sophisticated and emotionally rich, making them an important part of the repertoire for contemporary cellists. Barrière explored the depths of musical expression while continuing the traditions of Baroque music and developing his unique style. His music reflects the social and cultural currents of his time, and it continues to inspire and resonate with audiences today. 
+**Jean-Baptiste Barrière is a French Cellist and also Composer**, was a significant composer of the 18th century, contributing to the development of cello music. His works are technically sophisticated and emotionally rich, making them an important part of the repertoire for contemporary cellists. Barrière explored the depths of musical expression while continuing the traditions of Baroque music and developing his unique style. His music reflects the social and cultural currents of his time, and it continues to inspire and resonate with audiences today. 
 
  <img src="./jbb.jpg" alt="portrait" style="width:25%;" />
 
  <img src="./jean_baptipste_barriere.png" alt="score" style="width:50%;" />
+
+## Table of Contents
+
+- [A Timeline of His Life](#a-timeline-of-his-life)
+- [List of Important Works](#list-of-important-works)
+- [Excerpt of Chaconne in d](#excerpt-of-chaconne-in-d)
+- [Listening Guide](#listening-guide)
+- [Key Features of Chaconne in d](#key-features-of-chaconne-in-d)
  
 ## List of Important Works
+
 | Year | Works | YouTube |
-| 1740 | Pieces de clavecin | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM) |
-| 1740 | Sonata for Duet in G Major | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw) |
 | ---- | ----- | ------- |
-| ---- | ----- | ------- |
+| 1740  | Pieces de clavecin | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM)|
+| 1740 | Sonata for Duet in G Major | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw)|
+| 1740 | Concerto for two Harpsichords in E flat Major | [Listen](https://www.youtube.com/watch?v=q-mZxJkj4Sk) |
+| 1775 | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
+| 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
+
 
 . Key Works:
    - 6 Cello Sonatas (Sonates pour violoncelle)
@@ -92,3 +115,5 @@ He added Italian style to this
 Not only did he study, but he also developed his own music Musical discourse and subtlety
 (subtlety) Rich French taste
 (French flavour) added.
+
+[^8]: Credit: An image of cello by wrtn, Jun 10, 2025, 12:02:41 PM, with the prompt "Create an image of cello used during the period of jean baptist berriere (1707-1747)."
