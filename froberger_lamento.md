@@ -11,13 +11,9 @@ instrument: Harpsichord, Clavichord
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#timeline-of-johann-jakob-froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
-
-  Listening guide
-  
-  Background of the Work
-  
-  Description of the Work
-  
+- [Listening guide](#listening-guide)
+- [Background of the Work](#background-of-the-Work)
+- [Description of the Work](#description-of-the-work)
 - [List of Other Important Works](#list-of-other-important-works)
 - [Main instruments for his compositions](#main-instruments-for-his-compositions)
 - [His Pioneering Role in Baroque Keyboard Development](#His-Pioneering-Role-in-Baroque-Keyboard-Development)
