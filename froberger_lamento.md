@@ -71,6 +71,8 @@ alt="portrait" style="width:100%;" />
 | 4:30 - 6:00 | Explodes with virtuosic passages, arpeggios, and intense dissonant clashes, reigniting emotional turmoil. |
 | 6:00 - end  | Concludes in a slow minor key with fading melodies and long rests, leaving a sense of resigned sorrow and deep resonance.|
 
+[Back to TOC](#table-of-contents)
+
 ## Description of the Work
 
 | Element        | Description                                                                |
@@ -81,6 +83,7 @@ alt="portrait" style="width:100%;" />
 | **Symbolism**  | Descending scales evoke tears and sorrow (a common Baroque lament device)  |
 | **Importance** | Early example of personal emotional expression in instrumental music       |
 
+[Back to TOC](#table-of-contents)
 
 ## Background of the Work
 
