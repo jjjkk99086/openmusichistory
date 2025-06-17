@@ -10,7 +10,7 @@ instrument: Violin
 
 # Claudio Monteverdi (1567–1643)
 
-![Image](https://github.com/user-attachments/assets/79a95838-9e7e-4822-9bb6-3ba4ceb378ed)
+![Image](https://github.com/user-attachments/assets/79a95838-9e7e-4822-9bb6-3ba4ceb378ed) ![Image](https://github.com/user-attachments/assets/f700863d-56b3-4c47-b32f-b4c17b24a020)
 
 **Claudio Monteverdi** was an **Italian Batoque** composer, string player, and choirmaster. He is considered a crucial transitional figure between the Renaissance and Baroque periods of music history. Monteverdi was one of the first major composers to develop opera as an art form, and he played a significant role in the early Baroque period.
 
@@ -63,4 +63,8 @@ instrument: Violin
 Effective Use of Chorus and Instruments
 - Instrumental and choral elements enhance dramatic moments (e.g., the mythological prologue, final scenes).
 - Monteverdi uses instrumental color and texture sparingly but effectively.
+
+
+
+![Image](https://github.com/user-attachments/assets/e6f95805-09c7-4bcf-8239-1c5429d63bcd)
 
