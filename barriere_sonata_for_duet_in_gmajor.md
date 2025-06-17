@@ -4,7 +4,7 @@ Nationality: France
 Born: 1707
 Died: 1747
 Period: Baroque
-Composition: Sonata in G
+Composition: Pieces de clavecin
 Instrument: Cello
 ---
 
@@ -22,9 +22,9 @@ Instrument: Cello
 
 - [A Timeline of His Life](#a-timeline-of-his-life)
 - [List of Important Works](#list-of-important-works)
-- [Excerpt of Sonata in G](#excerpt-of-Sonata-in-G)
+- [Excerpt of Pieces de clavecin](#excerpt-of-pieces-de-clavecin)
 - [Listening Guide](#listening-guide)
-- [Key Features of Sonata in G](#key-features-of-Sonata-in-G)
+- [Key Features of Pieces de clavecin](#key-features-of-pieces-de-clavecin)
 
 ## A Timeline of His Life
 
@@ -53,28 +53,29 @@ Instrument: Cello
 | 1735 | Sonata No.6, in C minor • Livre II (first ed. 1735 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
 | 1736 | Sonata No.2 a tre, in D minor • Livre III (first ed. 1736 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
 | 1736 | Sonata No.4, in B♭ major • Livre III (first ed. 1736 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
-| 1740  | Pieces de clavecin | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM)|
-| 1740 | Sonata for Duet in G Major | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw)|
+| 1740 | Sonata for Duet in G Major • Livre IV (first ed. 1737-40 ca.) | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw)|
+| 1740 | Pieces de clavecin(first ed. 1740) | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM)|
+
+## Excerpt of Pieces de clavecin
+
+[Listen to Pieces de clavecin](https://www.youtube.com/watch?v=opqHeUnfJKM)
+
+<img src="./jean_baptipste_barriere.png" alt="score" style="width:33%;" />
 
 ## Listening Guide
 
 | Timing | Text and Form |
 | ------ | ------------- |
-| 0:00 - 0:15 | Refrain[^4] |
-| 0:15 - 0:29 | First Couplet[^5] |
-| 0:29 - 0:43 | Refrain |
-| 0:43 - 0:58 | Second Couplet |
-| 0:58 - 1:12 | Refrain |
-| 1:12 - 1:41 | Third Couplet |
-| 1:41 - 1:55 | Refrain |
-| 1:55 - 2:13 | Fourth Couplet |
-| 2:13 - End | Refrain |
+| 0:00 - 03:11 | La Boucon |
+| 03:12 - 05:49 | La Plancy |
+| 05:50 - 09:15 | La Duchesne |
+| 09:16 - 12:14 | La Dupont |
+| 12:15 - 15:24 | La Casamajor |
+| 15:25 - End | La Tribolet |
 
-[^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece. The 4-measure excerpt repeats twice, making the total 8 measures, which serves as the refrain of this piece.
-[^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
+[Back to TOC](#table-of-contents)
 
-
-<img src="./jean_baptipste_barriere.png" alt="score" style="width:35%;" />[^1] <img src="./jbb.jpg" alt="portrait" style="width:45%;" />[^2]
+<img src="./jean_baptipste_barriere.png" alt="score" style="width:35%;" /> <img src="./jbb.jpg" alt="portrait" style="width:45%;" />[^2]
 ## Key Features of sonata duet in G Major
 
 
