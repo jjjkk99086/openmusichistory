@@ -11,13 +11,9 @@ instrument: Harpsichord, Clavichord
 # Table of Contents
 - [Timeline of Johann Jakob Froberger](#timeline-of-johann-jakob-froberger)
 - [Lamento sopra la dolorosa perdita della Real Maesta di Ferdinando IV FBWV 612](#lamento-sopra-la-dolorosa-perdita-della-real-maesta-di-ferdinando-iv-fbwv-612)
-
-  Listening guide
-  
-  Background of the Work
-  
-  Description of the Work
-  
+- [Listening guide](#listening-guide)
+- [Background of the Work](#background-of-the-Work)
+- [Description of the Work](#description-of-the-work)
 - [List of Other Important Works](#list-of-other-important-works)
 - [Main instruments for his compositions](#main-instruments-for-his-compositions)
 - [His Pioneering Role in Baroque Keyboard Development](#His-Pioneering-Role-in-Baroque-Keyboard-Development)
@@ -75,6 +71,8 @@ alt="portrait" style="width:100%;" />
 | 4:30 - 6:00 | Explodes with virtuosic passages, arpeggios, and intense dissonant clashes, reigniting emotional turmoil. |
 | 6:00 - end  | Concludes in a slow minor key with fading melodies and long rests, leaving a sense of resigned sorrow and deep resonance.|
 
+[Back to TOC](#table-of-contents)
+
 ## Description of the Work
 
 | Element        | Description                                                                |
@@ -85,6 +83,7 @@ alt="portrait" style="width:100%;" />
 | **Symbolism**  | Descending scales evoke tears and sorrow (a common Baroque lament device)  |
 | **Importance** | Early example of personal emotional expression in instrumental music       |
 
+[Back to TOC](#table-of-contents)
 
 ## Background of the Work
 
