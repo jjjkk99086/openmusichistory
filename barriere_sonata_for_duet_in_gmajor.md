@@ -1,11 +1,11 @@
 ---
-Composer: Louis Couperin
+Composer: Jean Baptiste Barrière
 Nationality: France
-Born: 1626
-Died: 1661
+Born: 1707
+Died: 1747
 Period: Baroque
-Composition: Chaconne in D
-Instrument: Harpsichord
+Composition: sonata
+Instrument: cello
 ---
 
 
@@ -34,6 +34,25 @@ Instrument: Harpsichord
 | 1740 | Concerto for two Harpsichords in E flat Major | [Listen](https://www.youtube.com/watch?v=q-mZxJkj4Sk) |
 | 1775 | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
 | 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
+
+## Listening Guide
+
+| Timing | Text and Form |
+| ------ | ------------- |
+| 0:00 - 0:15 | Refrain[^4] |
+| 0:15 - 0:29 | First Couplet[^5] |
+| 0:29 - 0:43 | Refrain |
+| 0:43 - 0:58 | Second Couplet |
+| 0:58 - 1:12 | Refrain |
+| 1:12 - 1:41 | Third Couplet |
+| 1:41 - 1:55 | Refrain |
+| 1:55 - 2:13 | Fourth Couplet |
+| 2:13 - End | Refrain |
+
+[^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece. The 4-measure excerpt repeats twice, making the total 8 measures, which serves as the refrain of this piece.
+[^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
+
+## Key Features of Chaconne in d
 
 
 . Key Works:
@@ -115,5 +134,7 @@ He added Italian style to this
 Not only did he study, but he also developed his own music Musical discourse and subtlety
 (subtlety) Rich French taste
 (French flavour) added.
+
+ <img src="./barriere_cello.png" alt="instrument" style="width:25%;" />
 
 [^8]: Credit: An image of cello by wrtn, Jun 10, 2025, 12:02:41 PM, with the prompt "Create an image of cello used during the period of jean baptist berriere (1707-1747)."
