@@ -5,20 +5,18 @@ Born: 1707
 Died: 1747
 Period: Baroque
 Composition: Sonata in G
-Instrument: cello
+Instrument: Cello
 ---
 
 # Jean Baptiste Barriere (1707 – 1747)
 
 <img src="./barriere_portrait.jpg" alt="portrait" style="width:48%;" />[^1] <img src="./jbb.jpg" alt="portrait" style="width:38%;" />[^2]
 
-[^1]: Credit: A portrait of jean baptiste barriere by wrtn, Jun 8, 2025, 14:04:23 PM, with the prompt "Create an image of jean baptiste barriere (1707-1747)."
+[^1]: Credit: A portrait of jean baptiste barriere by ChatGpt, Jun 8, 2025, with the prompt "Create an image of jean baptiste barriere (1707-1747)."
 [^2]: Credit: * A portrait of jean baptiste barriere , [Naver Commons](https://m.blog.naver.com/ebnii/221593385117) 
 
 
 **Jean-Baptiste Barrière** (May 2, 1707 – June 6, 1747) was a **French cellist and composer**. He was born in Bordeaux and died in Paris, at 40 years of age. known for his contributions to cello music during the Baroque period. He was a virtuoso cellist and one of the best-known cellists of his time. His career included performing at the Académie Royale de Musique (Opera) and receiving a privilege from King Louis XV to compose and publish his works. He also toured Italy and returned to Paris to perform at the Concert Spirituel. a significant composer of the 18th century, contributing to the development of cello music. His works are technically sophisticated and emotionally rich, making them an important part of the repertoire for contemporary cellists. Barrière explored the depths of musical expression while continuing the traditions of **Baroque music** and developing his unique style. His music reflects the social and cultural currents of his time, and it continues to inspire and resonate with audiences today. 
-
-
 
 ## Table of Contents
 
@@ -27,7 +25,7 @@ Instrument: cello
 - [Excerpt of Sonata in G](#excerpt-of-Sonata-in-G)
 - [Listening Guide](#listening-guide)
 - [Key Features of Sonata in G](#key-features-of-Sonata-in-G)
- 
+
 ## A Timeline of His Life
 
 | Year | Contents |
@@ -50,11 +48,13 @@ Instrument: cello
 
 | Year | Works | YouTube |
 | ---- | ----- | ------- |
+| 1733 | Sonata No.1, in B minor • Livre I (first ed. 1733) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
+| 1735 | Sonata No.3, in D minor • Livre II (first ed. 1735 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
+| 1735 | Sonata No.6, in C minor • Livre II (first ed. 1735 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
+| 1736 | Sonata No.2 a tre, in D minor • Livre III (first ed. 1736 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
+| 1736 | Sonata No.4, in B♭ major • Livre III (first ed. 1736 ca.) | [Listen](https://www.youtube.com/watch?v=g30upVKEDwk&t=3547s) |
 | 1740  | Pieces de clavecin | [Listen](https://www.youtube.com/watch?v=opqHeUnfJKM)|
 | 1740 | Sonata for Duet in G Major | [Listen](https://www.youtube.com/watch?v=J3sWlZC84dw)|
-| 1740 | Concerto for two Harpsichords in E flat Major | [Listen](https://www.youtube.com/watch?v=q-mZxJkj4Sk) |
-| 1775 | 3 Viola Duets | [Listen](https://www.youtube.com/watch?v=6b6BgNSQx3U) |
-| 1778 |  Fugue in F Minor | [Listen](https://www.youtube.com/watch?v=i7Y1na7cflg) |
 
 ## Listening Guide
 
