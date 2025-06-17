@@ -1,3 +1,13 @@
+---
+Composer: François Couperin
+Nationality: French
+Born: 1668
+Died: 1733
+Period: Baroque
+Composition: Les Barricades Mystérieuse, Leçons de ténèbres, Pièces de clavecin
+Instrument: Harpsichord (Clavecin), Organ
+---
+
 # François Couperin (1668-1733)
 
 ![Image](https://github.com/user-attachments/assets/860a8537-55f9-4623-930e-8cae36f90962)
