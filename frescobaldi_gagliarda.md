@@ -1,7 +1,17 @@
+---
+Composer: Girolamo Frescobaldi
+Nationality: Italy
+Born: 1583
+Died: 1643
+Period: Baroque
+Composition: Gagliarda in G minor
+Instrument: Harpsichord
+---
+
 # Girolamo Frescobaldi (1583–1643)
 <img src="frescobaldi.png" alt="portrait" style="width:25%;" />
 
-Credit: An image of Frescobaldi created by Gemeni, Jun 9, 2025, 22:01:04, with the prompt "Create an image of Girolamo Frescobaldi (1583–1643)."
+Credit: An image of Frescobaldi created by Gemini, Jun 9, 2025, 22:01:04, with the prompt "Create an image of Girolamo Frescobaldi (1583–1643)."
 
  
 **Italian composer**, 
@@ -45,7 +55,7 @@ When listening to Frescobaldi’s music, focus on the **flexible tempo** and del
 ## Instrument Used During This Period
 <img src="cembalo_ahn_ire.png" alt="portrait" style="width:50%;" />
 
-Credit: An image of harpsichord created by Gemeni, Jun 9, 2025, 21:50:04, with the prompt "Create an image of harpsichord used during the period of Girolamo Frescobaldi (1583–1643)."
+Credit: An image of harpsichord created by Gemini, Jun 9, 2025, 21:50:04, with the prompt "Create an image of harpsichord used during the period of Girolamo Frescobaldi (1583–1643)."
 
 ## About Frescobaldi
 **Girolamo Frescobaldi (1583-1643)** was a **pioneering figure of expressive freedom** in early Baroque music. He is particularly known for his use of **flexible tempo**, a significant departure from the strict musical practices of the time. Born in **Ferrara, Italy**, Frescobaldi gained fame during his lifetime and expanded his influence as the **organist at St. Peter's Basilica in Rome.**
