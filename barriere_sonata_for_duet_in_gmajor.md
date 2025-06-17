@@ -1,21 +1,24 @@
 ---
-Composer: Jean Baptiste Barrière
+Composer: Jean Baptiste Barriere
 Nationality: France
 Born: 1707
 Died: 1747
 Period: Baroque
-Composition: sonata
+Composition: sonata in G
 Instrument: cello
 ---
 
+# Jean Baptiste Barriere (1707 – 1747)
 
-# Jean Baptiste Barrière (1707 – 1747)
+<img src="./barriere_portrait.jpg" alt="portrait" style="width:48%;" />[^1] <img src="./jbb.jpg" alt="portrait" style="width:38%;" />[^2]
+
+[^1]: Credit: A portrait of jean baptiste barriere by wrtn, Jun 8, 2025, 14:04:23 PM, with the prompt "Create an image of jean baptiste barriere (1707-1747)."
+[^2]: Credit: * A portrait of jean baptiste barriere , [Naver Commons](https://m.blog.naver.com/ebnii/221593385117) 
+
 
 **Jean-Baptiste Barrière is a French Cellist and also Composer**, was a significant composer of the 18th century, contributing to the development of cello music. His works are technically sophisticated and emotionally rich, making them an important part of the repertoire for contemporary cellists. Barrière explored the depths of musical expression while continuing the traditions of Baroque music and developing his unique style. His music reflects the social and cultural currents of his time, and it continues to inspire and resonate with audiences today. 
 
- <img src="./jbb.jpg" alt="portrait" style="width:25%;" />
 
- <img src="./jean_baptipste_barriere.png" alt="score" style="width:50%;" />
 
 ## Table of Contents
 
@@ -52,7 +55,9 @@ Instrument: cello
 [^4]: In chaconne form, particularly in the French Baroque style, a Refrain refers to the continuously repeating bass line or chord progression (the ostinato) that forms the structural backbone of the piece. The 4-measure excerpt repeats twice, making the total 8 measures, which serves as the refrain of this piece.
 [^5]: Couplets are the contrasting variations or episodes that appear between repetitions of this Refrain. They introduce melodic, rhythmic, or harmonic changes, offering diversity and developing the musical ideas while remaining rooted in the underlying bass pattern.
 
-## Key Features of Chaconne in d
+
+<img src="./jean_baptipste_barriere.png" alt="score" style="width:35%;" />[^1] <img src="./jbb.jpg" alt="portrait" style="width:45%;" />[^2]
+## Key Features of sonata duet in G Major
 
 
 . Key Works:
