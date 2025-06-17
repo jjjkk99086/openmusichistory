@@ -4,7 +4,7 @@ Nationality: France
 Born: 1707
 Died: 1747
 Period: Baroque
-Composition: sonata in G
+Composition: Sonata in G
 Instrument: cello
 ---
 
@@ -16,7 +16,7 @@ Instrument: cello
 [^2]: Credit: * A portrait of jean baptiste barriere , [Naver Commons](https://m.blog.naver.com/ebnii/221593385117) 
 
 
-**Jean-Baptiste Barrière is a French Cellist and also Composer**, was a significant composer of the 18th century, contributing to the development of cello music. His works are technically sophisticated and emotionally rich, making them an important part of the repertoire for contemporary cellists. Barrière explored the depths of musical expression while continuing the traditions of Baroque music and developing his unique style. His music reflects the social and cultural currents of his time, and it continues to inspire and resonate with audiences today. 
+**Jean-Baptiste Barrière** (May 2, 1707 – June 6, 1747) was a **French cellist and composer**. He was born in Bordeaux and died in Paris, at 40 years of age. known for his contributions to cello music during the Baroque period. He was a virtuoso cellist and one of the best-known cellists of his time. His career included performing at the Académie Royale de Musique (Opera) and receiving a privilege from King Louis XV to compose and publish his works. He also toured Italy and returned to Paris to perform at the Concert Spirituel. a significant composer of the 18th century, contributing to the development of cello music. His works are technically sophisticated and emotionally rich, making them an important part of the repertoire for contemporary cellists. Barrière explored the depths of musical expression while continuing the traditions of **Baroque music** and developing his unique style. His music reflects the social and cultural currents of his time, and it continues to inspire and resonate with audiences today. 
 
 
 
@@ -24,10 +24,28 @@ Instrument: cello
 
 - [A Timeline of His Life](#a-timeline-of-his-life)
 - [List of Important Works](#list-of-important-works)
-- [Excerpt of Chaconne in d](#excerpt-of-chaconne-in-d)
+- [Excerpt of Sonata in G](#excerpt-of-Sonata-in-G)
 - [Listening Guide](#listening-guide)
-- [Key Features of Chaconne in d](#key-features-of-chaconne-in-d)
+- [Key Features of Sonata in G](#key-features-of-Sonata-in-G)
  
+## A Timeline of His Life
+
+| Year | Contents |
+| ---- | -------- |
+| c. 1707 | Born in Bordeaux. |
+| Before 1731 | Studied the viol, later mastering the cello.. |
+| c. 1731 | Moved to Paris and joined the Académie Royale de Musique (Opera). |
+| 1733 | Received a privilege from King Louis XV to compose and publish his works. |
+| c. 1734 | Published his first book of sonatas for cello and basso continuo, Livre I. |
+| c. 1735 | Published his second book of cello sonatas, Livre II. |
+| 1737 | Undertook a long tour in Italy. |
+| 1738 | Returned to Paris and performed at the Concert Spirituel.|
+| c. 1739 | Granted a new 12-year privilege at Versailles. |
+| 1740 | Published his third book of cello sonatas, Livre III.|
+| 1747 | Died in Paris at the age of 40.|
+
+[Back to TOC](#table-of-contents)
+
 ## List of Important Works
 
 | Year | Works | YouTube |
